@@ -5,5 +5,6 @@
   include_once("contact.html");
   include_once("style.css");
   include_once("main.js");
-
+  include_once("images");
+  
 ?>
